@@ -1,0 +1,46 @@
+@media screen and (max-width: 850px){
+#container-info > h1{
+    font-size: 1.4rem;
+}
+
+#container-info > p{
+    font-size: 0.7rem;
+}
+
+#container-info > button{
+    width: 120px;
+}
+
+#container-info > button > a{
+    font-size: 0.8rem;
+}
+
+.container-login > h1{
+    font-size: 1.4rem;
+}
+
+.container-login > p{
+    font-size: 0.7rem;
+}
+
+.form-input-button > input{
+    width: 120px;
+    padding: 10px;
+    font-size: 0.8rem;
+}
+
+#section-enter > a{
+    font-size: 0.8rem;
+}
+}
+
+@media screen and (max-width: 600px){
+    
+#container-info{
+    display: none;
+}
+
+.container{
+    width: 100%;
+}
+}
